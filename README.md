@@ -14,5 +14,5 @@ A simple command-line memory matching game in Rust for two players.
 
 1. Clone the repository:
 ```bash
-git clone <repo-url>
+git clone https://github.com/Jakub2841/MemoryRust
 cd <repo-folder>
